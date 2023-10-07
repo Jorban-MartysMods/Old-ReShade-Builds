@@ -7,4 +7,6 @@
 
 :main: - This branch will exist to store older ReShade builds previous to the current main version of ReShade.
 
-:online: - This branch will exist to store older ReShade builds previous to the current main version of ReShade that have been modified in order to provide depth access in online games.
+:online: - This branch will exist to store older ReShade builds previous to the current main version of ReShade that have been modified in order to provide depth access in online games. These builds were given to the PGHub community by Matsilagi!
+
+:eve: This branch will exist to store older ReShade builds previous to the current main version of ReShade that have been modified in order to properly work with GTAV's Extended Video Export Utilitiy. These builds were given to the PGHub community by Matsilagi!
